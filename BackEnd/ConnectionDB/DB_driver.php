@@ -12,6 +12,7 @@ class DB_driver
         $pass = "";
 
     // Hàm Kết Nối
+	//sua commit
     function connect()
     {
         // Nếu chưa kết nối thì thực hiện kết nối
